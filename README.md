@@ -1,7 +1,4 @@
 # Object-Detection-and-Tracking-on-Jetson-Nano
-> Group 06's Project for ML701@MBZUAI
-
----
 
 ## Image Classification
 
@@ -87,11 +84,3 @@ python prune-sq.py
 1) Export the pytorch models into the onnx files.
 2) Evaluate the onnx models on the video data at Jetson Nano.
 
-**Watch demo of object tracking in video via this [Google Drive Link](https://drive.google.com/file/d/1heZxAcVsm-r-ufDVO-Rp8o6xp8k_sXtj/view?usp=share_link
-)**
-
----
-
-## Other
-
-The base models and pruned/quantized models and the corresponding onnx files are uploaded into the [OneDirve](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/zeyuan_yin_mbzuai_ac_ae/EhS7id5SfKdDnI7Ygcd_pHYBEt9hHw-c97kj_hIVhG6tSw?e=pNb4Df). (People in MBZUAI with the link can view)
