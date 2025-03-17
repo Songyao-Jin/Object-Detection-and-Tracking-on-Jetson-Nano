@@ -1,4 +1,4 @@
-# Object-Detection-and-Tracking-on-Jetson-Nano
+# Accelerating Deep Learning Model Inference on Edge Devices: A Study on Quantization and Pruning
 
 ## Image Classification
 
